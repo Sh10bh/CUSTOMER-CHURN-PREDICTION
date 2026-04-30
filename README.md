@@ -3,9 +3,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-4hbrehf5hblqqylzwhani8.streamlit.app/)
 
 An end-to-end machine learning pipeline that predicts customer churn for a telecom company using LightGBM, achieving a ROC-AUC score of 0.83.
 
+## 🚀 Live App
+[Click here to try the app](https://customer-churn-prediction-4hbrehf5hblqqylzwhani8.streamlit.app/)
 ---
 
 ## 📌 Problem Statement
